@@ -1,0 +1,38 @@
+[
+    
+    {
+        "_id": "6425cb1a6a59409e97c4c07f",
+        "picture": "https://img.freepik.com/free-photo/medium-shot-man-wearing-vr-glasses_23-2149126949.jpg?w=900&t=st=1680367461~exp=1680368061~hmac=0c39166e4968b89d6d8b225d7cb82d8f57100ad15f79fb66cb751f1f493f1bac",
+        "name": "Ava Johnson",
+        "profile_image": "https://img.freepik.com/free-photo/close-up-shot-friendly-looking-elegant-young-african-american-female-with-straight-dark-straight-hair-having-happy-joyful-look-posing_344912-1016.jpg?w=900&t=st=1680366929~exp=1680367529~hmac=e9e5b7666566382857844cffef3eeccc8a1f728be985b58da9a94ec7cd7a7783",
+        "read_time": 11,
+        "title": "The Future of Virtual Reality: How It Will Transform Industries"
+    },
+
+    {
+        "_id": "6425cb1a59cc61d8da16fc49",
+        "picture": "https://img.freepik.com/free-vector/cyber-bullying-concept_23-2148612087.jpg?w=900&t=st=1680367577~exp=1680368177~hmac=136ce11b25dea49057046d102d0b7287fb7ccf5837dccb27ebd04c114ecfa453",
+        "name": "Liam Garcia",
+        "profile_image": "https://img.freepik.com/free-photo/portrait-modern-man_23-2147960990.jpg?w=900&t=st=1680366920~exp=1680367520~hmac=feda7c62f2031acb430381fd627d39b9e964101ef3d700dc8ca56d295f52d2db",
+        "read_time": 12,
+        "title": "The Dark Side of Social Media: Navigating the Dangers of Online Platforms"
+    },
+
+    {
+        "_id": "6425cb1a17920b9f087f0122",
+        "picture": "https://img.freepik.com/free-vector/technical-developers-working-5g-network-project_1262-21433.jpg?w=900&t=st=1680367633~exp=1680368233~hmac=66687324a9b21d577a215d7357a21902ba0ff3a53906d90d97577c3e4c242b59",
+        "name": "Jasmine Lee",
+        "profile_image": "https://img.freepik.com/premium-photo/portrait-young-latin-woman-studio_58466-7049.jpg?w=900",
+        "read_time": 7,
+        "title": "5G Technology: The Next Generation of Mobile Networks"
+    },
+
+    {
+        "_id": "6425cb1a7a69feeb711feb72",
+        "picture": "https://img.freepik.com/free-vector/hand-drawn-flat-design-innovation-concept_52683-78089.jpg?w=900&t=st=1680367680~exp=1680368280~hmac=2275305dc788fb48f49abb93c905a8931eb7eeae9a6beddbbe39bc24d71de87a",
+        "name": "Tusto Patel",
+        "profile_image": "https://img.freepik.com/free-photo/portrait-white-man-isolated_53876-40306.jpg?w=900&t=st=1680366915~exp=1680367515~hmac=13d1d0992094293d5402660391f7f945768ee532950ef1e36a58c7536b401697",
+        "read_time": 9,
+        "title": "Artificial Intelligence in the Workplace: Benefits and Challenges"
+    }
+]
